@@ -294,8 +294,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: -0.2112977, y: 0.77865285, z: -0.3410296, w: -0.48244375}
-  m_LocalPosition: {x: 6.075955, y: 8.965061, z: 0.10790634}
+  m_LocalRotation: {x: -0.07667639, y: 0.8793638, z: -0.44481814, w: -0.1515811}
+  m_LocalPosition: {x: 8.20746, y: 26.132393, z: 14.180838}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -350,6 +350,7 @@ MonoBehaviour:
   - JSC
   - HONHJAEBAEK_Scene
   - RSJ Scene
+  - JSC2
 --- !u!1 &1425711647
 GameObject:
   m_ObjectHideFlags: 0
